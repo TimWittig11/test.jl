@@ -1,0 +1,4 @@
+name = "test"
+uuid = "4a21aa1a-e288-4a17-a265-bec5f22c390c"
+authors = ["TimWittig11 <tim.wittig@digitium.de>"]
+version = "0.1.0"
